@@ -20,6 +20,7 @@ redirect_from:
 Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Technology (Weihai Campus). I have been under supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). My research interests include: natural language processing, large language models, the interpretability and security of large language models. I will join Harbin Institute of Technology (Shenzhen Campus) in October 2025 to pursue an academic master's degree in Computer Science and Technology, under the guidance of [Prof. Cuiyun Gao](https://cuiyungao.github.io/).
 
 # 🔥 News
+- 2024.10 One papers is accepted by EMNLP 2024 Main Oral!!!.
 - 2024.09 Two papers were accepted by EMNLP 2024 Main.
 - 2024.07 One paper was accepted by ACMMM 2024.
 - 2023.11 Won the 2022 National Inspirational Scholarship.
@@ -37,7 +38,14 @@ Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Techn
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main (CCF-B)</div><img src='images/paper_2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main (CCF-B)</div><img src='images/paper_1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[UNO Arena for Evaluating Sequential Decision-Making Capability of Large Language Models](https://arxiv.org/pdf/2406.16382)<br>
+**Zhanyue Qin**, Haochuan Wang, Deyuan Liu, Ziyang Song, Cunhang Fan, Zhao Lv, Jinlin Wu, Zhen Lei, Zhiying Tu, Dianhui Chu, Xiaoyan Yu, Dianbo Sui
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main (CCF-B) Oral</div><img src='images/paper_2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging](https://arxiv.org/pdf/2406.16330)<br>
 Deyuan Liu\*, **Zhanyue Qin\***, Hairu Wang, Zhao Yang, Zecheng Wang, Fangying Rong, Qingbin Liu, Yanchao Hao, Xi Chen, Cunhang Fan, Zhao Lv, Zhiying Tu, Dianhui Chu, Bo Li, Dianbo Sui
@@ -48,6 +56,20 @@ Deyuan Liu\*, **Zhanyue Qin\***, Hairu Wang, Zhao Yang, Zecheng Wang, Fangying R
 <div class='paper-box-text' markdown="1">
 [Can We Debiase Multimodal Large Language Models via Model Editing?](https://openreview.net/pdf?id=ybqqGTWuhj)<br>
 Zecheng Wang, Xinye Li, **Zhanyue Qin**, Chunshan Li, Zhiying Tu, Dianhui Chu, Dianbo Sui
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arivx</div><img src='images/paper_4.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[TMGBench: A Systematic Game Benchmark for Evaluating Strategic Reasoning Abilities of LLMs](https://arxiv.org/pdf/2410.10479)<br>
+Haochuan Wang, Xiachong Feng, Lei Li, **Zhanyue Qin**, Dianbo Sui, Lingpeng Kong
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arivx</div><img src='images/paper_5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Mitigating Gender Bias in Code Large Language Models via Model Editing](https://arxiv.org/pdf/2410.07820)<br>
+**Zhanyue Qin**, Haochuan Wang, Zecheng Wang, Deyuan Liu, Cunhang Fan, Zhao Lv, Zhiying Tu, Dianhui Chu, Dianbo Sui
 </div>
 </div>
 
