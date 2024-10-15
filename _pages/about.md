@@ -38,13 +38,6 @@ Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Techn
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main (CCF-B)</div><img src='images/paper_1.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[UNO Arena for Evaluating Sequential Decision-Making Capability of Large Language Models](https://arxiv.org/pdf/2406.16382)<br>
-**Zhanyue Qin**, Haochuan Wang, Deyuan Liu, Ziyang Song, Cunhang Fan, Zhao Lv, Jinlin Wu, Zhen Lei, Zhiying Tu, Dianhui Chu, Xiaoyan Yu, Dianbo Sui
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main (CCF-B) Oral</div><img src='images/paper_2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging](https://arxiv.org/pdf/2406.16330)<br>
@@ -59,14 +52,14 @@ Zecheng Wang, Xinye Li, **Zhanyue Qin**, Chunshan Li, Zhiying Tu, Dianhui Chu, D
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arivx</div><img src='images/paper_4.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arivx</div><img src='images/paper_4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [TMGBench: A Systematic Game Benchmark for Evaluating Strategic Reasoning Abilities of LLMs](https://arxiv.org/pdf/2410.10479)<br>
 Haochuan Wang, Xiachong Feng, Lei Li, **Zhanyue Qin**, Dianbo Sui, Lingpeng Kong
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arivx</div><img src='images/paper_5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arivx</div><img src='images/paper_5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Mitigating Gender Bias in Code Large Language Models via Model Editing](https://arxiv.org/pdf/2410.07820)<br>
 **Zhanyue Qin**, Haochuan Wang, Zecheng Wang, Deyuan Liu, Cunhang Fan, Zhao Lv, Zhiying Tu, Dianhui Chu, Dianbo Sui
