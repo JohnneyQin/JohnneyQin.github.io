@@ -52,14 +52,14 @@ Zecheng Wang, Xinye Li, **Zhanyue Qin**, Chunshan Li, Zhiying Tu, Dianhui Chu, D
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arivx</div><img src='images/paper_4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/paper_4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [TMGBench: A Systematic Game Benchmark for Evaluating Strategic Reasoning Abilities of LLMs](https://arxiv.org/pdf/2410.10479)<br>
 Haochuan Wang, Xiachong Feng, Lei Li, **Zhanyue Qin**, Dianbo Sui, Lingpeng Kong
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arivx</div><img src='images/paper_5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/paper_5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Mitigating Gender Bias in Code Large Language Models via Model Editing](https://arxiv.org/pdf/2410.07820)<br>
 **Zhanyue Qin**, Haochuan Wang, Zecheng Wang, Deyuan Liu, Cunhang Fan, Zhao Lv, Zhiying Tu, Dianhui Chu, Dianbo Sui
