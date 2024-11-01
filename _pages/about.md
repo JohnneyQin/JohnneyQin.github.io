@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
-Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Technology (Weihai Campus). I have been under supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). My research interests include: natural language processing, large language models, the interpretability and security of large language models. I will join Harbin Institute of Technology (Shenzhen Campus) in September 2025 to pursue an academic master's degree in Electronic Information (Computer Technology), under the guidance of [Prof. Cuiyun Gao](https://cuiyungao.github.io/).
+Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Technology (Weihai). I have been under supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). My research interests include: natural language processing, large language models, the interpretability and security of large language models. I will join Harbin Institute of Technology (Shenzhen) in September 2025 to pursue an academic master's degree in Electronic Information (Computer Technology), under the guidance of [Prof. Cuiyun Gao](https://cuiyungao.github.io/).
 I am now conducting a research internship in Tencent.
 
 # 🔥 News
@@ -73,8 +73,8 @@ Speeches that have been held:
 - *2024.09.28*, Efficient and Effective Solutions on LLMs，in [Guangdong Key Laboratory of New Security and and Intelligent New Technology](http://sailing.hitsz.edu.cn/index.htm).
 
 # 📖 Educations
-- *2025.09 - 2028.06 (Expected)*, Harbin Institute of Technology (Shenzhen Campus). M.S. in Electronic Information (Computer Technology).
-- *2021.09 - 2025.06 (Expected)*, Harbin Institute of Technology (Weihai Campus). B.S. in Software Engineering.
+- *2025.09 - 2028.06 (Expected)*, Harbin Institute of Technology (Shenzhen). M.S. in Electronic Information (Computer Technology).
+- *2021.09 - 2025.06 (Expected)*, Harbin Institute of Technology (Weihai). B.S. in Software Engineering.
 
 # 💻 Internships
 - *2024.10 - 2025.08 (Expected)*, Platform and Content Group, Tencent, Shenzhen.
