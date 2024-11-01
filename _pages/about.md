@@ -21,6 +21,7 @@ Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Techn
 I am now conducting a research internship in Tencent.
 
 # 🔥 News
+- 2024.11 Won the 2023 National Inspirational Scholarship.
 - 2024.10 One paper is accepted by EMNLP 2024 Main Oral.
 - 2024.09 Two papers were accepted by EMNLP 2024 Main.
 - 2024.07 One paper was accepted by ACMMM 2024.
