@@ -17,23 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
-Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Technology (Weihai). I have been under supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). My research interests include: natural language processing, large language models, the interpretability and security of large language models. I will join Harbin Institute of Technology (Shenzhen) in September 2025 to pursue an professional master's degree in Electronic Information (Computer Technology), under the guidance of [Prof. Cuiyun Gao](https://cuiyungao.github.io/).
+Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Technology (Weihai). I have been under supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). My research interests include: natural language processing, large language models, the interpretability and security of large language models.
+<br>
+I will join Harbin Institute of Technology (Shenzhen) in September 2025 to pursue an professional master's degree in Electronic Information (Computer Technology), under the guidance of [Prof. Cuiyun Gao](https://cuiyungao.github.io/).
+<br>
 I am now conducting a research internship in Tencent.
 
 # 🔥 News
 
-*Publications*
+**Publications**
 - 2024.10 One paper is accepted by EMNLP 2024 Main Oral.
 - 2024.09 Two papers were accepted by EMNLP 2024 Main.
 - 2024.07 One paper was accepted by ACMMM 2024.
-*Competitions*
+<br>
+**Competitions(Only National Level)**
 - 2022.12 Won the First Prize of the National Finals of the 2022 China University Computer Competition (Top 4 in China)🥇
-*Scholarships*
+<br>
+**Scholarships(National Level or Highlight)**
 - 2024.11 Won the 2023 National Inspirational Scholarship.
 - 2023.11 Won the 2022 National Inspirational Scholarship.
 - 2022.12 Won the 2021 National Inspirational Scholarship.
 - 2022.05 Won the first-class People's Scholarship of Harbin Institute of Technology (Top 1%)
-
 
 # 📝 Publications 
 
@@ -82,4 +86,4 @@ Speeches that have been held:
 - *2021.09 - 2025.06 (Expected)*, Harbin Institute of Technology (Weihai). B.S. in Software Engineering.  
 
 # 💻 Internships
-- *2024.10 - 2025.08 (Expected)*, Platform and Content Group, Tencent, Shenzhen.
+- *2024.10 - 2025.05 (Expected)*, Platform and Content Group, Tencent, Shenzhen.
