@@ -77,7 +77,8 @@ Speeches that have been held:
 
 # 📖 Educations
 - *2025.09 - 2028.01 (Expected)*, Harbin Institute of Technology (Shenzhen). M.S. in Electronic Information (Computer Technology).  
-- *2021.09 - 2025.06 (Expected)*, Harbin Institute of Technology (Weihai). B.S. in Software Engineering.  
+- *2021.09 - 2025.06 (Expected)*, Harbin Institute of Technology (Weihai). B.S. in Software Engineering.
+- *2017.09 - 2020.06*, Yuncheng No.1 Middle School of Shandong Province. 
 
 # 💻 Internships
 - *2024.10 - 2025.05 (Expected)*, Platform and Content Group, Tencent, Shenzhen.
