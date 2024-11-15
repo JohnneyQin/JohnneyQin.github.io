@@ -76,9 +76,9 @@ Speeches that have been held:
 - *2024.09.28*, Efficient and Effective Solutions on LLMs，in [Guangdong Key Laboratory of New Security and and Intelligent New Technology](http://sailing.hitsz.edu.cn/index.htm).
 
 # 📖 Educations
-- *2025.09 - 2028.01 (Expected)*, Harbin Institute of Technology (Shenzhen). M.S. in Electronic Information (Computer Technology).  
-- *2021.09 - 2025.06 (Expected)*, Harbin Institute of Technology (Weihai). B.S. in Software Engineering.
-- *2017.09 - 2020.06*, Yuncheng No.1 Middle School of Shandong Province.
+- *2025.09 - 2028.01 (Expected)*, [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html). M.S. in Electronic Information (Computer Technology).  
+- *2021.09 - 2025.06 (Expected)*, [Harbin Institute of Technology (Weihai)](https://www.hitwh.edu.cn/). B.S. in Software Engineering.
+- *2017.09 - 2020.06*, [Yuncheng No.1 Middle School of Shandong Province](http://www.sdycyz.cn/).
 
 # 💻 Internships
 - *2024.10 - 2025.05 (Expected)*, Platform and Content Group, Tencent, Shenzhen.
