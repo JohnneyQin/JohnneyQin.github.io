@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhanyue Qin (秦占悦)"
+  name             : "Zhanyue Qin"
+  chinese_name     : "秦占悦"
   avatar           : "images/ZhanyueQin.jpg"
   bio              : "Senior at Harbin Institute of Technology"
   location         : "Shenzhen, China"
