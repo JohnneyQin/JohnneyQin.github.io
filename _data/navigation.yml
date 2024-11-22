@@ -10,7 +10,7 @@ main:
     url: "/#-publications"
 
   - title: "Talk"
-    url: "/#-Talk"
+    url: "/#-talk"
 
   - title: "Educations"
     url: "/#-educations"
