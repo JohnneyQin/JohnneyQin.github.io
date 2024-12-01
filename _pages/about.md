@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
-Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Technology (Weihai). I have been under supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). My research interests include: natural language processing, large language models, the interpretability and security of large language models. I will join Harbin Institute of Technology (Shenzhen) in September 2025 to pursue an professional master's degree in Electronic Information (Computer Technology), under the guidance of [Prof. Cuiyun Gao](https://cuiyungao.github.io/). I am now conducting a research internship in Tencent.
+Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Technology (Weihai). I have been under supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). My research interests include: natural language processing, large language models, the interpretability and security of large language models. I will join Harbin Institute of Technology (Shenzhen) in September 2025 to pursue an professional master's degree in Electronic Information (Computer Technology), under the guidance of [Prof. Cuiyun Gao](https://cuiyungao.github.io/). I am now conducting a research internship in Tencent. You can also contact me through WeChat: 13518603870.
 
 # 🔥 News
 
