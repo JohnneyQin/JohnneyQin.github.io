@@ -22,9 +22,10 @@ Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Techn
 # 🔥 News
 
 - **Publications**
-  - 2024.10 One paper is accepted by EMNLP 2024 Main Oral.
-  - 2024.09 Two papers are accepted by EMNLP 2024 Main.
-  - 2024.07 One paper is accepted by ACMMM 2024.
+  - 2025.05 One paper is accepted by ICWS 2025 (CCF-B).
+  - 2024.10 One paper is accepted by EMNLP 2024 Main Oral (CCF-B).
+  - 2024.09 Two papers are accepted by EMNLP 2024 Main (CCF-B).
+  - 2024.07 One paper is accepted by ACMMM 2024 (CCF-A).
 - **Competitions (Only National Level)**
   - 2022.12 Win the First Prize of the National Finals of the 2022 China University Computer Competition (Top 4 in China)🥇
 - **Scholarships (National Level or Highlight)**
@@ -34,6 +35,13 @@ Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Techn
   - 2022.05 Win the first-class People's Scholarship of Harbin Institute of Technology (Top 1%)
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICWS 2025 (CCF-B)</div><img src='images/paper_5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Mitigating Gender Bias in Code Large Language Models via Multi-Scales Model Editing](https://arxiv.org/pdf/2410.07820)<br>
+**Zhanyue Qin**, Haochuan Wang, Zecheng Wang, Deyuan Liu, Weiyu Lan, Mingda Li, Qingbin Liu, Xi Chen, Chuanshan Li, Zhiying Tu, Dianhui Chu, Cuiyun Gao, Dianbo Sui
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main (CCF-B)</div><img src='images/paper_1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,13 +71,6 @@ Haochuan Wang, Xiachong Feng, Lei Li, **Zhanyue Qin**, Dianbo Sui, Lingpeng Kong
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/paper_5.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Mitigating Gender Bias in Code Large Language Models via Model Editing](https://arxiv.org/pdf/2410.07820)<br>
-**Zhanyue Qin**, Haochuan Wang, Zecheng Wang, Deyuan Liu, Cunhang Fan, Zhao Lv, Zhiying Tu, Dianhui Chu, Dianbo Sui
-</div>
-</div>
-
 # 💬 Talk
 If you are interested in my work, I am more than happy to share them!
 Speeches that have been held:
@@ -77,8 +78,8 @@ Speeches that have been held:
 
 # 📖 Educations
 - *2025.09 - 2028.01 (Expected)*, [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html). M.S. in Electronic Information (Computer Technology).  
-- *2021.09 - 2025.06 (Expected)*, [Harbin Institute of Technology (Weihai)](https://www.hitwh.edu.cn/). B.S. in Software Engineering.
+- *2021.09 - 2025.06*, [Harbin Institute of Technology (Weihai)](https://www.hitwh.edu.cn/). B.S. in Software Engineering.
 - *2017.09 - 2020.06*, [Yuncheng No.1 Middle School of Shandong Province](http://www.sdycyz.cn/).
 
 # 💻 Internships
-- *2024.10 - 2025.05 (Expected)*, Platform and Content Group, Tencent, Shenzhen.
+- *2024.10 - 2025.03*, Platform and Content Group, Tencent, Shenzhen.
