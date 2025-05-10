@@ -35,7 +35,6 @@ Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Techn
   - 2022.05 Win the first-class People's Scholarship of Harbin Institute of Technology (Top 1%)
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICWS 2025 (CCF-B)</div><img src='images/paper_5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Mitigating Gender Bias in Code Large Language Models via Multi-Scales Model Editing](https://arxiv.org/pdf/2410.07820)<br>
