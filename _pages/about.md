@@ -22,7 +22,6 @@ Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Techn
 # 🔥 News
 
 - **Publications**
-  - 2025.05 One paper is accepted by ICWS 2025 (CCF-B).
   - 2024.10 One paper is accepted by EMNLP 2024 Main Oral (CCF-B).
   - 2024.09 Two papers are accepted by EMNLP 2024 Main (CCF-B).
   - 2024.07 One paper is accepted by ACMMM 2024 (CCF-A).
@@ -35,7 +34,7 @@ Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Techn
   - 2022.05 Win the first-class People's Scholarship of Harbin Institute of Technology (Top 1%)
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICWS 2025 (CCF-B)</div><img src='images/paper_5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Mitigating Gender Bias in Code Large Language Models via Multi-Scales Model Editing](https://arxiv.org/pdf/2410.07820)<br>
 **Zhanyue Qin**, Haochuan Wang, Zecheng Wang, Deyuan Liu, Weiyu Lan, Mingda Li, Qingbin Liu, Xi Chen, Chuanshan Li, Zhiying Tu, Dianhui Chu, Cuiyun Gao, Dianbo Sui
